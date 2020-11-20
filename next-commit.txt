@@ -1,2 +1,3 @@
 Pierwszy commit w pliku next-commit.txt
 Wprowadzenie pierwszych poprawek w pliku next-commit.txt
+Wzbogacenie pliku w opcje zabezpieczen
