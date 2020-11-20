@@ -1,2 +1,3 @@
 Mój pierwszy commit w pliku first-commit.txt
 Wzbogacenie pliku o pierwsze poprawki
+Uzupelnienie pliku w nowe opcje zabezpieczen
