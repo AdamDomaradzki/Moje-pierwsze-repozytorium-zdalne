@@ -1,0 +1,1 @@
+Pierwszy commit w pliku next-commit.txt
